@@ -1,0 +1,1663 @@
+if_test: True if_resume: True
+[0/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14640']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14640-output2.nii
+[1/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14641']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14641-output2.nii
+[2/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14642']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14642-output2.nii
+[3/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14643']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14643-output2.nii
+[4/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14644']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14644-output2.nii
+[5/771], loss:0.0006, tumor_dice:0.0000, name:['volume-14645']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14645-output2.nii
+[6/771], loss:0.0010, tumor_dice:0.0000, name:['volume-14646']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14646-output2.nii
+[7/771], loss:0.0005, tumor_dice:0.0000, name:['volume-14647']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14647-output2.nii
+[8/771], loss:0.0007, tumor_dice:0.0000, name:['volume-14648']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14648-output2.nii
+[9/771], loss:0.0007, tumor_dice:0.6425, name:['volume-14649']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14649-output2.nii
+[10/771], loss:0.0010, tumor_dice:0.5684, name:['volume-14650']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14650-output2.nii
+[11/771], loss:0.0008, tumor_dice:0.4738, name:['volume-14651']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14651-output2.nii
+[12/771], loss:0.0008, tumor_dice:0.4988, name:['volume-14652']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14652-output2.nii
+[13/771], loss:0.0010, tumor_dice:0.7550, name:['volume-14653']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14653-output2.nii
+[14/771], loss:0.0010, tumor_dice:0.7774, name:['volume-14654']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14654-output2.nii
+[15/771], loss:0.0010, tumor_dice:0.7731, name:['volume-14655']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14655-output2.nii
+[16/771], loss:0.0009, tumor_dice:0.7949, name:['volume-14656']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14656-output2.nii
+[17/771], loss:0.0013, tumor_dice:0.8536, name:['volume-14657']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14657-output2.nii
+[18/771], loss:0.0012, tumor_dice:0.8619, name:['volume-14658']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14658-output2.nii
+[19/771], loss:0.0013, tumor_dice:0.8623, name:['volume-14659']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14659-output2.nii
+[20/771], loss:0.0012, tumor_dice:0.8732, name:['volume-14660']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14660-output2.nii
+[21/771], loss:0.0016, tumor_dice:0.8857, name:['volume-14661']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14661-output2.nii
+[22/771], loss:0.0016, tumor_dice:0.8882, name:['volume-14662']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14662-output2.nii
+[23/771], loss:0.0017, tumor_dice:0.8794, name:['volume-14663']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14663-output2.nii
+[24/771], loss:0.0016, tumor_dice:0.8845, name:['volume-14664']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14664-output2.nii
+[25/771], loss:0.0018, tumor_dice:0.9140, name:['volume-14665']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14665-output2.nii
+[26/771], loss:0.0017, tumor_dice:0.9179, name:['volume-14666']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14666-output2.nii
+[27/771], loss:0.0016, tumor_dice:0.9217, name:['volume-14667']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14667-output2.nii
+[28/771], loss:0.0016, tumor_dice:0.9221, name:['volume-14668']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14668-output2.nii
+[29/771], loss:0.0018, tumor_dice:0.9319, name:['volume-14669']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14669-output2.nii
+[30/771], loss:0.0017, tumor_dice:0.9356, name:['volume-14670']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14670-output2.nii
+[31/771], loss:0.0016, tumor_dice:0.9375, name:['volume-14671']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14671-output2.nii
+[32/771], loss:0.0016, tumor_dice:0.9374, name:['volume-14672']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14672-output2.nii
+[33/771], loss:0.0019, tumor_dice:0.9286, name:['volume-14673']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14673-output2.nii
+[34/771], loss:0.0018, tumor_dice:0.9311, name:['volume-14674']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14674-output2.nii
+[35/771], loss:0.0018, tumor_dice:0.9313, name:['volume-14675']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14675-output2.nii
+[36/771], loss:0.0018, tumor_dice:0.9326, name:['volume-14676']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14676-output2.nii
+[37/771], loss:0.0020, tumor_dice:0.9086, name:['volume-14677']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14677-output2.nii
+[38/771], loss:0.0020, tumor_dice:0.9054, name:['volume-14678']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14678-output2.nii
+[39/771], loss:0.0020, tumor_dice:0.9094, name:['volume-14679']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14679-output2.nii
+[40/771], loss:0.0021, tumor_dice:0.9030, name:['volume-14680']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14680-output2.nii
+[41/771], loss:0.0017, tumor_dice:0.9075, name:['volume-14681']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14681-output2.nii
+[42/771], loss:0.0017, tumor_dice:0.9033, name:['volume-14682']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14682-output2.nii
+[43/771], loss:0.0016, tumor_dice:0.9093, name:['volume-14683']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14683-output2.nii
+[44/771], loss:0.0017, tumor_dice:0.9024, name:['volume-14684']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14684-output2.nii
+[45/771], loss:0.0019, tumor_dice:0.8162, name:['volume-14685']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14685-output2.nii
+[46/771], loss:0.0017, tumor_dice:0.8391, name:['volume-14686']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14686-output2.nii
+[47/771], loss:0.0016, tumor_dice:0.8551, name:['volume-14687']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14687-output2.nii
+[48/771], loss:0.0016, tumor_dice:0.8499, name:['volume-14688']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14688-output2.nii
+[49/771], loss:0.0012, tumor_dice:0.7377, name:['volume-14689']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14689-output2.nii
+[50/771], loss:0.0012, tumor_dice:0.7534, name:['volume-14690']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14690-output2.nii
+[51/771], loss:0.0012, tumor_dice:0.7465, name:['volume-14691']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14691-output2.nii
+[52/771], loss:0.0012, tumor_dice:0.7442, name:['volume-14692']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14692-output2.nii
+[53/771], loss:0.0004, tumor_dice:0.8193, name:['volume-14693']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14693-output2.nii
+[54/771], loss:0.0004, tumor_dice:0.8328, name:['volume-14694']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14694-output2.nii
+[55/771], loss:0.0004, tumor_dice:0.8205, name:['volume-14695']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14695-output2.nii
+[56/771], loss:0.0004, tumor_dice:0.8284, name:['volume-14696']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14696-output2.nii
+[57/771], loss:0.0004, tumor_dice:0.8224, name:['volume-14697']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14697-output2.nii
+[58/771], loss:0.0005, tumor_dice:0.7484, name:['volume-14698']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14698-output2.nii
+[59/771], loss:0.0004, tumor_dice:0.8365, name:['volume-14699']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14699-output2.nii
+[60/771], loss:0.0004, tumor_dice:0.8309, name:['volume-14700']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14700-output2.nii
+[61/771], loss:0.0004, tumor_dice:0.8410, name:['volume-14701']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14701-output2.nii
+[62/771], loss:0.0008, tumor_dice:0.8077, name:['volume-14702']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14702-output2.nii
+[63/771], loss:0.0007, tumor_dice:0.8493, name:['volume-14703']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14703-output2.nii
+[64/771], loss:0.0004, tumor_dice:0.8596, name:['volume-14704']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14704-output2.nii
+[65/771], loss:0.0008, tumor_dice:0.8225, name:['volume-14705']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14705-output2.nii
+[66/771], loss:0.0007, tumor_dice:0.8459, name:['volume-14706']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14706-output2.nii
+[67/771], loss:0.0005, tumor_dice:0.8242, name:['volume-14707']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14707-output2.nii
+[68/771], loss:0.0008, tumor_dice:0.8378, name:['volume-14708']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14708-output2.nii
+[69/771], loss:0.0007, tumor_dice:0.8621, name:['volume-14709']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14709-output2.nii
+[70/771], loss:0.0004, tumor_dice:0.8741, name:['volume-14710']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14710-output2.nii
+[71/771], loss:0.0016, tumor_dice:0.7943, name:['volume-14711']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14711-output2.nii
+[72/771], loss:0.0013, tumor_dice:0.8331, name:['volume-14712']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14712-output2.nii
+[73/771], loss:0.0004, tumor_dice:0.8737, name:['volume-14713']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14713-output2.nii
+[74/771], loss:0.0016, tumor_dice:0.7898, name:['volume-14714']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14714-output2.nii
+[75/771], loss:0.0012, tumor_dice:0.8382, name:['volume-14715']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14715-output2.nii
+[76/771], loss:0.0004, tumor_dice:0.8687, name:['volume-14716']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14716-output2.nii
+[77/771], loss:0.0014, tumor_dice:0.8344, name:['volume-14717']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14717-output2.nii
+[78/771], loss:0.0012, tumor_dice:0.8452, name:['volume-14718']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14718-output2.nii
+[79/771], loss:0.0004, tumor_dice:0.8727, name:['volume-14719']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14719-output2.nii
+[80/771], loss:0.0026, tumor_dice:0.8678, name:['volume-14720']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14720-output2.nii
+[81/771], loss:0.0023, tumor_dice:0.8745, name:['volume-14721']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14721-output2.nii
+[82/771], loss:0.0004, tumor_dice:0.8395, name:['volume-14722']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14722-output2.nii
+[83/771], loss:0.0024, tumor_dice:0.8758, name:['volume-14723']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14723-output2.nii
+[84/771], loss:0.0022, tumor_dice:0.8768, name:['volume-14724']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14724-output2.nii
+[85/771], loss:0.0004, tumor_dice:0.8325, name:['volume-14725']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14725-output2.nii
+[86/771], loss:0.0024, tumor_dice:0.8778, name:['volume-14726']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14726-output2.nii
+[87/771], loss:0.0022, tumor_dice:0.8768, name:['volume-14727']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14727-output2.nii
+[88/771], loss:0.0005, tumor_dice:0.8370, name:['volume-14728']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14728-output2.nii
+[89/771], loss:0.0028, tumor_dice:0.9165, name:['volume-14729']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14729-output2.nii
+[90/771], loss:0.0026, tumor_dice:0.9195, name:['volume-14730']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14730-output2.nii
+[91/771], loss:0.0005, tumor_dice:0.8024, name:['volume-14731']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14731-output2.nii
+[92/771], loss:0.0029, tumor_dice:0.9139, name:['volume-14732']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14732-output2.nii
+[93/771], loss:0.0028, tumor_dice:0.9120, name:['volume-14733']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14733-output2.nii
+[94/771], loss:0.0006, tumor_dice:0.7145, name:['volume-14734']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14734-output2.nii
+[95/771], loss:0.0031, tumor_dice:0.9073, name:['volume-14735']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14735-output2.nii
+[96/771], loss:0.0028, tumor_dice:0.9122, name:['volume-14736']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14736-output2.nii
+[97/771], loss:0.0006, tumor_dice:0.7101, name:['volume-14737']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14737-output2.nii
+[98/771], loss:0.0038, tumor_dice:0.9252, name:['volume-14738']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14738-output2.nii
+[99/771], loss:0.0035, tumor_dice:0.9281, name:['volume-14739']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14739-output2.nii
+[100/771], loss:0.0007, tumor_dice:0.6027, name:['volume-14740']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14740-output2.nii
+[101/771], loss:0.0038, tumor_dice:0.9286, name:['volume-14741']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14741-output2.nii
+[102/771], loss:0.0036, tumor_dice:0.9298, name:['volume-14742']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14742-output2.nii
+[103/771], loss:0.0008, tumor_dice:0.7913, name:['volume-14743']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14743-output2.nii
+[104/771], loss:0.0037, tumor_dice:0.9304, name:['volume-14744']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14744-output2.nii
+[105/771], loss:0.0035, tumor_dice:0.9324, name:['volume-14745']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14745-output2.nii
+[106/771], loss:0.0008, tumor_dice:0.7862, name:['volume-14746']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14746-output2.nii
+[107/771], loss:0.0045, tumor_dice:0.9299, name:['volume-14747']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14747-output2.nii
+[108/771], loss:0.0040, tumor_dice:0.9373, name:['volume-14748']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14748-output2.nii
+[109/771], loss:0.0008, tumor_dice:0.7806, name:['volume-14749']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14749-output2.nii
+[110/771], loss:0.0045, tumor_dice:0.9366, name:['volume-14750']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14750-output2.nii
+[111/771], loss:0.0043, tumor_dice:0.9385, name:['volume-14751']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14751-output2.nii
+[112/771], loss:0.0009, tumor_dice:0.8929, name:['volume-14752']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14752-output2.nii
+[113/771], loss:0.0045, tumor_dice:0.9357, name:['volume-14753']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14753-output2.nii
+[114/771], loss:0.0042, tumor_dice:0.9391, name:['volume-14754']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14754-output2.nii
+[115/771], loss:0.0009, tumor_dice:0.8933, name:['volume-14755']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14755-output2.nii
+[116/771], loss:0.0041, tumor_dice:0.9379, name:['volume-14756']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14756-output2.nii
+[117/771], loss:0.0039, tumor_dice:0.9405, name:['volume-14757']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14757-output2.nii
+[118/771], loss:0.0009, tumor_dice:0.8492, name:['volume-14758']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14758-output2.nii
+[119/771], loss:0.0044, tumor_dice:0.9425, name:['volume-14759']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14759-output2.nii
+[120/771], loss:0.0043, tumor_dice:0.9436, name:['volume-14760']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14760-output2.nii
+[121/771], loss:0.0012, tumor_dice:0.9197, name:['volume-14761']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14761-output2.nii
+[122/771], loss:0.0044, tumor_dice:0.9425, name:['volume-14762']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14762-output2.nii
+[123/771], loss:0.0042, tumor_dice:0.9444, name:['volume-14763']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14763-output2.nii
+[124/771], loss:0.0012, tumor_dice:0.9179, name:['volume-14764']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14764-output2.nii
+[125/771], loss:0.0037, tumor_dice:0.9419, name:['volume-14765']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14765-output2.nii
+[126/771], loss:0.0037, tumor_dice:0.9420, name:['volume-14766']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14766-output2.nii
+[127/771], loss:0.0012, tumor_dice:0.8661, name:['volume-14767']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14767-output2.nii
+[128/771], loss:0.0043, tumor_dice:0.9435, name:['volume-14768']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14768-output2.nii
+[129/771], loss:0.0042, tumor_dice:0.9450, name:['volume-14769']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14769-output2.nii
+[130/771], loss:0.0015, tumor_dice:0.9141, name:['volume-14770']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14770-output2.nii
+[131/771], loss:0.0042, tumor_dice:0.9444, name:['volume-14771']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14771-output2.nii
+[132/771], loss:0.0040, tumor_dice:0.9466, name:['volume-14772']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14772-output2.nii
+[133/771], loss:0.0016, tumor_dice:0.9109, name:['volume-14773']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14773-output2.nii
+[134/771], loss:0.0037, tumor_dice:0.9333, name:['volume-14774']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14774-output2.nii
+[135/771], loss:0.0035, tumor_dice:0.9365, name:['volume-14775']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14775-output2.nii
+[136/771], loss:0.0014, tumor_dice:0.8652, name:['volume-14776']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14776-output2.nii
+[137/771], loss:0.0043, tumor_dice:0.9360, name:['volume-14777']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14777-output2.nii
+[138/771], loss:0.0040, tumor_dice:0.9399, name:['volume-14778']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14778-output2.nii
+[139/771], loss:0.0017, tumor_dice:0.9120, name:['volume-14779']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14779-output2.nii
+[140/771], loss:0.0044, tumor_dice:0.9347, name:['volume-14780']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14780-output2.nii
+[141/771], loss:0.0040, tumor_dice:0.9402, name:['volume-14781']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14781-output2.nii
+[142/771], loss:0.0018, tumor_dice:0.9089, name:['volume-14782']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14782-output2.nii
+[143/771], loss:0.0031, tumor_dice:0.9195, name:['volume-14783']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14783-output2.nii
+[144/771], loss:0.0031, tumor_dice:0.9213, name:['volume-14784']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14784-output2.nii
+[145/771], loss:0.0013, tumor_dice:0.8777, name:['volume-14785']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14785-output2.nii
+[146/771], loss:0.0034, tumor_dice:0.9311, name:['volume-14786']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14786-output2.nii
+[147/771], loss:0.0034, tumor_dice:0.9312, name:['volume-14787']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14787-output2.nii
+[148/771], loss:0.0016, tumor_dice:0.9111, name:['volume-14788']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14788-output2.nii
+[149/771], loss:0.0033, tumor_dice:0.9312, name:['volume-14789']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14789-output2.nii
+[150/771], loss:0.0034, tumor_dice:0.9311, name:['volume-14790']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14790-output2.nii
+[151/771], loss:0.0017, tumor_dice:0.9077, name:['volume-14791']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14791-output2.nii
+tumor_dice = 1
+[152/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14792']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14792-output2.nii
+tumor_dice = 1
+[153/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14793']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14793-output2.nii
+tumor_dice = 1
+[154/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14794']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14794-output2.nii
+tumor_dice = 1
+[155/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14795']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14795-output2.nii
+tumor_dice = 1
+[156/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14796']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14796-output2.nii
+tumor_dice = 1
+[157/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14797']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14797-output2.nii
+tumor_dice = 1
+[158/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14798']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14798-output2.nii
+tumor_dice = 1
+[159/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14799']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14799-output2.nii
+tumor_dice = 1
+[160/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14800']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14800-output2.nii
+[161/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14801']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14801-output2.nii
+[162/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14802']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14802-output2.nii
+[163/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14803']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14803-output2.nii
+[164/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14804']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14804-output2.nii
+[165/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14805']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14805-output2.nii
+[166/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14806']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14806-output2.nii
+[167/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14807']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14807-output2.nii
+[168/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14808']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14808-output2.nii
+[169/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14809']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14809-output2.nii
+[170/771], loss:0.0005, tumor_dice:0.5118, name:['volume-14810']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14810-output2.nii
+[171/771], loss:0.0005, tumor_dice:0.5211, name:['volume-14811']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14811-output2.nii
+[172/771], loss:0.0004, tumor_dice:0.5354, name:['volume-14812']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14812-output2.nii
+[173/771], loss:0.0005, tumor_dice:0.5699, name:['volume-14813']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14813-output2.nii
+[174/771], loss:0.0004, tumor_dice:0.6133, name:['volume-14814']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14814-output2.nii
+[175/771], loss:0.0004, tumor_dice:0.6096, name:['volume-14815']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14815-output2.nii
+[176/771], loss:0.0005, tumor_dice:0.5341, name:['volume-14816']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14816-output2.nii
+[177/771], loss:0.0005, tumor_dice:0.5891, name:['volume-14817']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14817-output2.nii
+[178/771], loss:0.0004, tumor_dice:0.6253, name:['volume-14818']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14818-output2.nii
+[179/771], loss:0.0006, tumor_dice:0.6969, name:['volume-14819']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14819-output2.nii
+[180/771], loss:0.0006, tumor_dice:0.7148, name:['volume-14820']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14820-output2.nii
+[181/771], loss:0.0006, tumor_dice:0.6460, name:['volume-14821']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14821-output2.nii
+[182/771], loss:0.0006, tumor_dice:0.7338, name:['volume-14822']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14822-output2.nii
+[183/771], loss:0.0006, tumor_dice:0.7336, name:['volume-14823']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14823-output2.nii
+[184/771], loss:0.0006, tumor_dice:0.7005, name:['volume-14824']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14824-output2.nii
+[185/771], loss:0.0006, tumor_dice:0.6917, name:['volume-14825']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14825-output2.nii
+[186/771], loss:0.0006, tumor_dice:0.7073, name:['volume-14826']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14826-output2.nii
+[187/771], loss:0.0006, tumor_dice:0.6300, name:['volume-14827']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14827-output2.nii
+[188/771], loss:0.0008, tumor_dice:0.9096, name:['volume-14828']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14828-output2.nii
+[189/771], loss:0.0008, tumor_dice:0.9140, name:['volume-14829']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14829-output2.nii
+[190/771], loss:0.0008, tumor_dice:0.9086, name:['volume-14830']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14830-output2.nii
+[191/771], loss:0.0008, tumor_dice:0.9133, name:['volume-14831']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14831-output2.nii
+[192/771], loss:0.0008, tumor_dice:0.9159, name:['volume-14832']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14832-output2.nii
+[193/771], loss:0.0008, tumor_dice:0.9140, name:['volume-14833']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14833-output2.nii
+[194/771], loss:0.0007, tumor_dice:0.9163, name:['volume-14834']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14834-output2.nii
+[195/771], loss:0.0007, tumor_dice:0.9189, name:['volume-14835']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14835-output2.nii
+[196/771], loss:0.0007, tumor_dice:0.9153, name:['volume-14836']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14836-output2.nii
+[197/771], loss:0.0011, tumor_dice:0.9271, name:['volume-14837']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14837-output2.nii
+[198/771], loss:0.0011, tumor_dice:0.9288, name:['volume-14838']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14838-output2.nii
+[199/771], loss:0.0011, tumor_dice:0.9329, name:['volume-14839']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14839-output2.nii
+[200/771], loss:0.0011, tumor_dice:0.9287, name:['volume-14840']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14840-output2.nii
+[201/771], loss:0.0011, tumor_dice:0.9286, name:['volume-14841']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14841-output2.nii
+[202/771], loss:0.0010, tumor_dice:0.9373, name:['volume-14842']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14842-output2.nii
+[203/771], loss:0.0011, tumor_dice:0.9289, name:['volume-14843']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14843-output2.nii
+[204/771], loss:0.0011, tumor_dice:0.9317, name:['volume-14844']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14844-output2.nii
+[205/771], loss:0.0010, tumor_dice:0.9360, name:['volume-14845']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14845-output2.nii
+[206/771], loss:0.0016, tumor_dice:0.9118, name:['volume-14846']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14846-output2.nii
+[207/771], loss:0.0016, tumor_dice:0.9150, name:['volume-14847']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14847-output2.nii
+[208/771], loss:0.0013, tumor_dice:0.9251, name:['volume-14848']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14848-output2.nii
+[209/771], loss:0.0015, tumor_dice:0.9153, name:['volume-14849']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14849-output2.nii
+[210/771], loss:0.0015, tumor_dice:0.9179, name:['volume-14850']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14850-output2.nii
+[211/771], loss:0.0012, tumor_dice:0.9299, name:['volume-14851']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14851-output2.nii
+[212/771], loss:0.0015, tumor_dice:0.9151, name:['volume-14852']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14852-output2.nii
+[213/771], loss:0.0015, tumor_dice:0.9196, name:['volume-14853']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14853-output2.nii
+[214/771], loss:0.0012, tumor_dice:0.9291, name:['volume-14854']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14854-output2.nii
+[215/771], loss:0.0018, tumor_dice:0.9246, name:['volume-14855']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14855-output2.nii
+[216/771], loss:0.0018, tumor_dice:0.9244, name:['volume-14856']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14856-output2.nii
+[217/771], loss:0.0012, tumor_dice:0.9268, name:['volume-14857']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14857-output2.nii
+[218/771], loss:0.0018, tumor_dice:0.9260, name:['volume-14858']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14858-output2.nii
+[219/771], loss:0.0018, tumor_dice:0.9271, name:['volume-14859']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14859-output2.nii
+[220/771], loss:0.0012, tumor_dice:0.9331, name:['volume-14860']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14860-output2.nii
+[221/771], loss:0.0018, tumor_dice:0.9269, name:['volume-14861']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14861-output2.nii
+[222/771], loss:0.0018, tumor_dice:0.9279, name:['volume-14862']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14862-output2.nii
+[223/771], loss:0.0011, tumor_dice:0.9334, name:['volume-14863']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14863-output2.nii
+[224/771], loss:0.0020, tumor_dice:0.9223, name:['volume-14864']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14864-output2.nii
+[225/771], loss:0.0020, tumor_dice:0.9231, name:['volume-14865']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14865-output2.nii
+[226/771], loss:0.0012, tumor_dice:0.9244, name:['volume-14866']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14866-output2.nii
+[227/771], loss:0.0020, tumor_dice:0.9232, name:['volume-14867']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14867-output2.nii
+[228/771], loss:0.0020, tumor_dice:0.9255, name:['volume-14868']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14868-output2.nii
+[229/771], loss:0.0012, tumor_dice:0.9302, name:['volume-14869']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14869-output2.nii
+[230/771], loss:0.0020, tumor_dice:0.9207, name:['volume-14870']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14870-output2.nii
+[231/771], loss:0.0020, tumor_dice:0.9241, name:['volume-14871']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14871-output2.nii
+[232/771], loss:0.0012, tumor_dice:0.9225, name:['volume-14872']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14872-output2.nii
+[233/771], loss:0.0018, tumor_dice:0.9224, name:['volume-14873']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14873-output2.nii
+[234/771], loss:0.0017, tumor_dice:0.9252, name:['volume-14874']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14874-output2.nii
+[235/771], loss:0.0009, tumor_dice:0.9275, name:['volume-14875']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14875-output2.nii
+[236/771], loss:0.0017, tumor_dice:0.9247, name:['volume-14876']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14876-output2.nii
+[237/771], loss:0.0017, tumor_dice:0.9270, name:['volume-14877']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14877-output2.nii
+[238/771], loss:0.0009, tumor_dice:0.9327, name:['volume-14878']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14878-output2.nii
+[239/771], loss:0.0017, tumor_dice:0.9258, name:['volume-14879']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14879-output2.nii
+[240/771], loss:0.0017, tumor_dice:0.9273, name:['volume-14880']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14880-output2.nii
+[241/771], loss:0.0008, tumor_dice:0.9367, name:['volume-14881']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14881-output2.nii
+[242/771], loss:0.0014, tumor_dice:0.9111, name:['volume-14882']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14882-output2.nii
+[243/771], loss:0.0014, tumor_dice:0.9114, name:['volume-14883']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14883-output2.nii
+[244/771], loss:0.0007, tumor_dice:0.8680, name:['volume-14884']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14884-output2.nii
+[245/771], loss:0.0014, tumor_dice:0.9117, name:['volume-14885']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14885-output2.nii
+[246/771], loss:0.0014, tumor_dice:0.9127, name:['volume-14886']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14886-output2.nii
+[247/771], loss:0.0007, tumor_dice:0.8731, name:['volume-14887']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14887-output2.nii
+[248/771], loss:0.0014, tumor_dice:0.9119, name:['volume-14888']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14888-output2.nii
+[249/771], loss:0.0014, tumor_dice:0.9138, name:['volume-14889']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14889-output2.nii
+[250/771], loss:0.0006, tumor_dice:0.8753, name:['volume-14890']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14890-output2.nii
+tumor_dice = 1
+[251/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14891']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14891-output2.nii
+tumor_dice = 1
+[252/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14892']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14892-output2.nii
+tumor_dice = 1
+[253/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14893']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14893-output2.nii
+tumor_dice = 1
+[254/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14894']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14894-output2.nii
+tumor_dice = 1
+[255/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14895']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14895-output2.nii
+tumor_dice = 1
+[256/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14896']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14896-output2.nii
+tumor_dice = 1
+[257/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14897']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14897-output2.nii
+tumor_dice = 1
+[258/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14898']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14898-output2.nii
+tumor_dice = 1
+[259/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14899']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14899-output2.nii
+tumor_dice = 1
+[260/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14900']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14900-output2.nii
+tumor_dice = 1
+[261/771], loss:0.0002, tumor_dice:1.0000, name:['volume-14901']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14901-output2.nii
+tumor_dice = 1
+[262/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14902']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14902-output2.nii
+tumor_dice = 1
+[263/771], loss:0.0002, tumor_dice:1.0000, name:['volume-14903']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14903-output2.nii
+tumor_dice = 1
+[264/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14904']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14904-output2.nii
+tumor_dice = 1
+[265/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14905']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14905-output2.nii
+tumor_dice = 1
+[266/771], loss:0.0002, tumor_dice:1.0000, name:['volume-14906']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14906-output2.nii
+tumor_dice = 1
+[267/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14907']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14907-output2.nii
+tumor_dice = 1
+[268/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14908']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14908-output2.nii
+[269/771], loss:0.0003, tumor_dice:0.5652, name:['volume-14909']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14909-output2.nii
+[270/771], loss:0.0003, tumor_dice:0.5224, name:['volume-14910']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14910-output2.nii
+[271/771], loss:0.0003, tumor_dice:0.6452, name:['volume-14911']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14911-output2.nii
+[272/771], loss:0.0003, tumor_dice:0.6267, name:['volume-14912']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14912-output2.nii
+[273/771], loss:0.0003, tumor_dice:0.6538, name:['volume-14913']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14913-output2.nii
+[274/771], loss:0.0003, tumor_dice:0.6994, name:['volume-14914']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14914-output2.nii
+[275/771], loss:0.0003, tumor_dice:0.6225, name:['volume-14915']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14915-output2.nii
+[276/771], loss:0.0003, tumor_dice:0.7209, name:['volume-14916']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14916-output2.nii
+[277/771], loss:0.0003, tumor_dice:0.7403, name:['volume-14917']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14917-output2.nii
+[278/771], loss:0.0003, tumor_dice:0.8149, name:['volume-14918']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14918-output2.nii
+[279/771], loss:0.0003, tumor_dice:0.7495, name:['volume-14919']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14919-output2.nii
+[280/771], loss:0.0003, tumor_dice:0.6667, name:['volume-14920']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14920-output2.nii
+[281/771], loss:0.0003, tumor_dice:0.7958, name:['volume-14921']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14921-output2.nii
+[282/771], loss:0.0003, tumor_dice:0.8092, name:['volume-14922']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14922-output2.nii
+[283/771], loss:0.0003, tumor_dice:0.8052, name:['volume-14923']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14923-output2.nii
+[284/771], loss:0.0003, tumor_dice:0.8123, name:['volume-14924']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14924-output2.nii
+[285/771], loss:0.0003, tumor_dice:0.8122, name:['volume-14925']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14925-output2.nii
+[286/771], loss:0.0003, tumor_dice:0.7689, name:['volume-14926']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14926-output2.nii
+[287/771], loss:0.0003, tumor_dice:0.8255, name:['volume-14927']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14927-output2.nii
+[288/771], loss:0.0003, tumor_dice:0.7837, name:['volume-14928']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14928-output2.nii
+[289/771], loss:0.0003, tumor_dice:0.7482, name:['volume-14929']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14929-output2.nii
+[290/771], loss:0.0003, tumor_dice:0.8400, name:['volume-14930']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14930-output2.nii
+[291/771], loss:0.0003, tumor_dice:0.8566, name:['volume-14931']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14931-output2.nii
+[292/771], loss:0.0003, tumor_dice:0.8409, name:['volume-14932']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14932-output2.nii
+[293/771], loss:0.0003, tumor_dice:0.8214, name:['volume-14933']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14933-output2.nii
+[294/771], loss:0.0003, tumor_dice:0.8350, name:['volume-14934']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14934-output2.nii
+[295/771], loss:0.0003, tumor_dice:0.8234, name:['volume-14935']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14935-output2.nii
+[296/771], loss:0.0003, tumor_dice:0.8099, name:['volume-14936']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14936-output2.nii
+[297/771], loss:0.0003, tumor_dice:0.8027, name:['volume-14937']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14937-output2.nii
+[298/771], loss:0.0003, tumor_dice:0.7761, name:['volume-14938']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14938-output2.nii
+[299/771], loss:0.0003, tumor_dice:0.8414, name:['volume-14939']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14939-output2.nii
+[300/771], loss:0.0003, tumor_dice:0.8442, name:['volume-14940']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14940-output2.nii
+[301/771], loss:0.0003, tumor_dice:0.8224, name:['volume-14941']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14941-output2.nii
+[302/771], loss:0.0003, tumor_dice:0.8231, name:['volume-14942']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14942-output2.nii
+[303/771], loss:0.0003, tumor_dice:0.8488, name:['volume-14943']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14943-output2.nii
+[304/771], loss:0.0003, tumor_dice:0.8307, name:['volume-14944']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14944-output2.nii
+[305/771], loss:0.0003, tumor_dice:0.8186, name:['volume-14945']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14945-output2.nii
+[306/771], loss:0.0003, tumor_dice:0.8043, name:['volume-14946']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14946-output2.nii
+[307/771], loss:0.0003, tumor_dice:0.8055, name:['volume-14947']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14947-output2.nii
+[308/771], loss:0.0003, tumor_dice:0.8469, name:['volume-14948']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14948-output2.nii
+[309/771], loss:0.0003, tumor_dice:0.8453, name:['volume-14949']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14949-output2.nii
+[310/771], loss:0.0003, tumor_dice:0.8387, name:['volume-14950']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14950-output2.nii
+[311/771], loss:0.0003, tumor_dice:0.8286, name:['volume-14951']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14951-output2.nii
+[312/771], loss:0.0003, tumor_dice:0.8395, name:['volume-14952']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14952-output2.nii
+[313/771], loss:0.0003, tumor_dice:0.8188, name:['volume-14953']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14953-output2.nii
+[314/771], loss:0.0003, tumor_dice:0.7638, name:['volume-14954']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14954-output2.nii
+[315/771], loss:0.0003, tumor_dice:0.7916, name:['volume-14955']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14955-output2.nii
+[316/771], loss:0.0003, tumor_dice:0.7928, name:['volume-14956']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14956-output2.nii
+[317/771], loss:0.0003, tumor_dice:0.8173, name:['volume-14957']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14957-output2.nii
+[318/771], loss:0.0003, tumor_dice:0.8126, name:['volume-14958']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14958-output2.nii
+[319/771], loss:0.0003, tumor_dice:0.8118, name:['volume-14959']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14959-output2.nii
+[320/771], loss:0.0003, tumor_dice:0.8094, name:['volume-14960']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14960-output2.nii
+[321/771], loss:0.0003, tumor_dice:0.8170, name:['volume-14961']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14961-output2.nii
+[322/771], loss:0.0003, tumor_dice:0.8046, name:['volume-14962']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14962-output2.nii
+[323/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14963']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14963-output2.nii
+[324/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14964']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14964-output2.nii
+[325/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14965']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14965-output2.nii
+[326/771], loss:0.0002, tumor_dice:0.0000, name:['volume-14966']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14966-output2.nii
+[327/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14967']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14967-output2.nii
+[328/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14968']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14968-output2.nii
+[329/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14969']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14969-output2.nii
+[330/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14970']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14970-output2.nii
+[331/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14971']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14971-output2.nii
+tumor_dice = 1
+[332/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14972']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14972-output2.nii
+tumor_dice = 1
+[333/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14973']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14973-output2.nii
+tumor_dice = 1
+[334/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14974']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14974-output2.nii
+tumor_dice = 1
+[335/771], loss:0.0002, tumor_dice:1.0000, name:['volume-14975']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14975-output2.nii
+tumor_dice = 1
+[336/771], loss:0.0002, tumor_dice:1.0000, name:['volume-14976']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14976-output2.nii
+tumor_dice = 1
+[337/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14977']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14977-output2.nii
+tumor_dice = 1
+[338/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14978']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14978-output2.nii
+tumor_dice = 1
+[339/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14979']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14979-output2.nii
+tumor_dice = 1
+[340/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14980']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14980-output2.nii
+tumor_dice = 1
+[341/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14981']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14981-output2.nii
+tumor_dice = 1
+[342/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14982']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14982-output2.nii
+tumor_dice = 1
+[343/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14983']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14983-output2.nii
+tumor_dice = 1
+[344/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14984']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14984-output2.nii
+tumor_dice = 1
+[345/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14985']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14985-output2.nii
+tumor_dice = 1
+[346/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14986']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14986-output2.nii
+tumor_dice = 1
+[347/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14987']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14987-output2.nii
+tumor_dice = 1
+[348/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14988']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14988-output2.nii
+tumor_dice = 1
+[349/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14989']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14989-output2.nii
+tumor_dice = 1
+[350/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14990']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14990-output2.nii
+tumor_dice = 1
+[351/771], loss:0.0002, tumor_dice:1.0000, name:['volume-14991']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14991-output2.nii
+tumor_dice = 1
+[352/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14992']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14992-output2.nii
+tumor_dice = 1
+[353/771], loss:0.0003, tumor_dice:1.0000, name:['volume-14993']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14993-output2.nii
+[354/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14994']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14994-output2.nii
+[355/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14995']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14995-output2.nii
+[356/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14996']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14996-output2.nii
+[357/771], loss:0.0003, tumor_dice:0.0000, name:['volume-14997']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14997-output2.nii
+[358/771], loss:0.0006, tumor_dice:0.4883, name:['volume-14998']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14998-output2.nii
+[359/771], loss:0.0006, tumor_dice:0.5379, name:['volume-14999']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-14999-output2.nii
+[360/771], loss:0.0006, tumor_dice:0.4915, name:['volume-15000']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15000-output2.nii
+[361/771], loss:0.0006, tumor_dice:0.4578, name:['volume-15001']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15001-output2.nii
+[362/771], loss:0.0004, tumor_dice:0.8601, name:['volume-15002']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15002-output2.nii
+[363/771], loss:0.0004, tumor_dice:0.8590, name:['volume-15003']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15003-output2.nii
+[364/771], loss:0.0004, tumor_dice:0.8606, name:['volume-15004']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15004-output2.nii
+[365/771], loss:0.0005, tumor_dice:0.8606, name:['volume-15005']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15005-output2.nii
+[366/771], loss:0.0004, tumor_dice:0.8670, name:['volume-15006']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15006-output2.nii
+[367/771], loss:0.0004, tumor_dice:0.8596, name:['volume-15007']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15007-output2.nii
+[368/771], loss:0.0004, tumor_dice:0.8580, name:['volume-15008']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15008-output2.nii
+[369/771], loss:0.0005, tumor_dice:0.8601, name:['volume-15009']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15009-output2.nii
+[370/771], loss:0.0004, tumor_dice:0.8624, name:['volume-15010']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15010-output2.nii
+[371/771], loss:0.0004, tumor_dice:0.8641, name:['volume-15011']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15011-output2.nii
+[372/771], loss:0.0005, tumor_dice:0.8558, name:['volume-15012']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15012-output2.nii
+[373/771], loss:0.0005, tumor_dice:0.8535, name:['volume-15013']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15013-output2.nii
+[374/771], loss:0.0005, tumor_dice:0.8350, name:['volume-15014']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15014-output2.nii
+[375/771], loss:0.0005, tumor_dice:0.8392, name:['volume-15015']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15015-output2.nii
+[376/771], loss:0.0005, tumor_dice:0.8242, name:['volume-15016']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15016-output2.nii
+[377/771], loss:0.0005, tumor_dice:0.8144, name:['volume-15017']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15017-output2.nii
+[378/771], loss:0.0004, tumor_dice:0.8723, name:['volume-15018']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15018-output2.nii
+[379/771], loss:0.0004, tumor_dice:0.8720, name:['volume-15019']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15019-output2.nii
+[380/771], loss:0.0004, tumor_dice:0.8769, name:['volume-15020']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15020-output2.nii
+[381/771], loss:0.0004, tumor_dice:0.8734, name:['volume-15021']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15021-output2.nii
+tumor_dice = 1
+[382/771], loss:0.0002, tumor_dice:1.0000, name:['volume-15022']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15022-output2.nii
+tumor_dice = 1
+[383/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15023']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15023-output2.nii
+tumor_dice = 1
+[384/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15024']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15024-output2.nii
+[385/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15025']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15025-output2.nii
+tumor_dice = 1
+[386/771], loss:0.0002, tumor_dice:1.0000, name:['volume-15026']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15026-output2.nii
+tumor_dice = 1
+[387/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15027']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15027-output2.nii
+tumor_dice = 1
+[388/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15028']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15028-output2.nii
+tumor_dice = 1
+[389/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15029']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15029-output2.nii
+tumor_dice = 1
+[390/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15030']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15030-output2.nii
+[391/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15031']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15031-output2.nii
+tumor_dice = 1
+[392/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15032']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15032-output2.nii
+[393/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15033']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15033-output2.nii
+tumor_dice = 1
+[394/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15034']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15034-output2.nii
+tumor_dice = 1
+[395/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15035']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15035-output2.nii
+tumor_dice = 1
+[396/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15036']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15036-output2.nii
+tumor_dice = 1
+[397/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15037']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15037-output2.nii
+tumor_dice = 1
+[398/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15038']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15038-output2.nii
+tumor_dice = 1
+[399/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15039']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15039-output2.nii
+tumor_dice = 1
+[400/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15040']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15040-output2.nii
+tumor_dice = 1
+[401/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15041']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15041-output2.nii
+[402/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15042']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15042-output2.nii
+tumor_dice = 1
+[403/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15043']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15043-output2.nii
+tumor_dice = 1
+[404/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15044']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15044-output2.nii
+tumor_dice = 1
+[405/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15045']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15045-output2.nii
+tumor_dice = 1
+[406/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15046']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15046-output2.nii
+tumor_dice = 1
+[407/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15047']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15047-output2.nii
+[408/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15048']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15048-output2.nii
+tumor_dice = 1
+[409/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15049']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15049-output2.nii
+tumor_dice = 1
+[410/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15050']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15050-output2.nii
+tumor_dice = 1
+[411/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15051']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15051-output2.nii
+tumor_dice = 1
+[412/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15052']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15052-output2.nii
+tumor_dice = 1
+[413/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15053']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15053-output2.nii
+tumor_dice = 1
+[414/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15054']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15054-output2.nii
+tumor_dice = 1
+[415/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15055']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15055-output2.nii
+tumor_dice = 1
+[416/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15056']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15056-output2.nii
+tumor_dice = 1
+[417/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15057']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15057-output2.nii
+tumor_dice = 1
+[418/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15058']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15058-output2.nii
+tumor_dice = 1
+[419/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15059']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15059-output2.nii
+tumor_dice = 1
+[420/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15060']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15060-output2.nii
+tumor_dice = 1
+[421/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15061']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15061-output2.nii
+tumor_dice = 1
+[422/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15062']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15062-output2.nii
+tumor_dice = 1
+[423/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15063']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15063-output2.nii
+tumor_dice = 1
+[424/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15064']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15064-output2.nii
+tumor_dice = 1
+[425/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15065']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15065-output2.nii
+tumor_dice = 1
+[426/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15066']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15066-output2.nii
+tumor_dice = 1
+[427/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15067']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15067-output2.nii
+[428/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15068']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15068-output2.nii
+tumor_dice = 1
+[429/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15069']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15069-output2.nii
+[430/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15070']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15070-output2.nii
+tumor_dice = 1
+[431/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15071']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15071-output2.nii
+tumor_dice = 1
+[432/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15072']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15072-output2.nii
+tumor_dice = 1
+[433/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15073']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15073-output2.nii
+tumor_dice = 1
+[434/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15074']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15074-output2.nii
+tumor_dice = 1
+[435/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15075']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15075-output2.nii
+tumor_dice = 1
+[436/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15076']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15076-output2.nii
+tumor_dice = 1
+[437/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15077']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15077-output2.nii
+tumor_dice = 1
+[438/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15078']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15078-output2.nii
+[439/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15079']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15079-output2.nii
+[440/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15080']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15080-output2.nii
+tumor_dice = 1
+[441/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15081']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15081-output2.nii
+[442/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15082']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15082-output2.nii
+[443/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15083']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15083-output2.nii
+tumor_dice = 1
+[444/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15084']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15084-output2.nii
+[445/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15085']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15085-output2.nii
+[446/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15086']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15086-output2.nii
+[447/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15087']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15087-output2.nii
+[448/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15088']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15088-output2.nii
+[449/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15089']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15089-output2.nii
+tumor_dice = 1
+[450/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15090']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15090-output2.nii
+[451/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15091']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15091-output2.nii
+[452/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15092']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15092-output2.nii
+tumor_dice = 1
+[453/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15093']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15093-output2.nii
+[454/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15094']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15094-output2.nii
+[455/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15095']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15095-output2.nii
+tumor_dice = 1
+[456/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15096']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15096-output2.nii
+[457/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15097']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15097-output2.nii
+[458/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15098']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15098-output2.nii
+tumor_dice = 1
+[459/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15099']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15099-output2.nii
+[460/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15100']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15100-output2.nii
+[461/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15101']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15101-output2.nii
+tumor_dice = 1
+[462/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15102']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15102-output2.nii
+[463/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15103']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15103-output2.nii
+[464/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15104']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15104-output2.nii
+[465/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15105']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15105-output2.nii
+[466/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15106']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15106-output2.nii
+[467/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15107']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15107-output2.nii
+tumor_dice = 1
+[468/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15108']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15108-output2.nii
+[469/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15109']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15109-output2.nii
+[470/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15110']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15110-output2.nii
+tumor_dice = 1
+[471/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15111']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15111-output2.nii
+[472/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15112']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15112-output2.nii
+[473/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15113']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15113-output2.nii
+tumor_dice = 1
+[474/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15114']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15114-output2.nii
+[475/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15115']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15115-output2.nii
+[476/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15116']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15116-output2.nii
+tumor_dice = 1
+[477/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15117']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15117-output2.nii
+[478/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15118']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15118-output2.nii
+[479/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15119']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15119-output2.nii
+tumor_dice = 1
+[480/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15120']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15120-output2.nii
+[481/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15121']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15121-output2.nii
+[482/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15122']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15122-output2.nii
+tumor_dice = 1
+[483/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15123']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15123-output2.nii
+tumor_dice = 1
+[484/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15124']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15124-output2.nii
+tumor_dice = 1
+[485/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15125']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15125-output2.nii
+tumor_dice = 1
+[486/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15126']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15126-output2.nii
+tumor_dice = 1
+[487/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15127']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15127-output2.nii
+[488/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15128']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15128-output2.nii
+[489/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15129']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15129-output2.nii
+[490/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15130']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15130-output2.nii
+[491/771], loss:0.0003, tumor_dice:0.0000, name:['volume-15131']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15131-output2.nii
+tumor_dice = 1
+[492/771], loss:0.0003, tumor_dice:1.0000, name:['volume-15132']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15132-output2.nii
+[493/771], loss:0.0005, tumor_dice:0.8204, name:['volume-15133']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15133-output2.nii
+[494/771], loss:0.0004, tumor_dice:0.8400, name:['volume-15134']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15134-output2.nii
+[495/771], loss:0.0004, tumor_dice:0.8247, name:['volume-15135']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15135-output2.nii
+[496/771], loss:0.0004, tumor_dice:0.8496, name:['volume-15136']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15136-output2.nii
+[497/771], loss:0.0005, tumor_dice:0.8402, name:['volume-15137']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15137-output2.nii
+[498/771], loss:0.0004, tumor_dice:0.8802, name:['volume-15138']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15138-output2.nii
+[499/771], loss:0.0005, tumor_dice:0.8233, name:['volume-15139']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15139-output2.nii
+[500/771], loss:0.0005, tumor_dice:0.8222, name:['volume-15140']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15140-output2.nii
+[501/771], loss:0.0004, tumor_dice:0.8796, name:['volume-15141']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15141-output2.nii
+[502/771], loss:0.0007, tumor_dice:0.9076, name:['volume-15142']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15142-output2.nii
+[503/771], loss:0.0007, tumor_dice:0.9094, name:['volume-15143']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15143-output2.nii
+[504/771], loss:0.0005, tumor_dice:0.9150, name:['volume-15144']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15144-output2.nii
+[505/771], loss:0.0006, tumor_dice:0.9178, name:['volume-15145']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15145-output2.nii
+[506/771], loss:0.0006, tumor_dice:0.9183, name:['volume-15146']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15146-output2.nii
+[507/771], loss:0.0005, tumor_dice:0.9219, name:['volume-15147']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15147-output2.nii
+[508/771], loss:0.0006, tumor_dice:0.9169, name:['volume-15148']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15148-output2.nii
+[509/771], loss:0.0006, tumor_dice:0.9172, name:['volume-15149']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15149-output2.nii
+[510/771], loss:0.0005, tumor_dice:0.9233, name:['volume-15150']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15150-output2.nii
+[511/771], loss:0.0007, tumor_dice:0.9093, name:['volume-15151']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15151-output2.nii
+[512/771], loss:0.0008, tumor_dice:0.9017, name:['volume-15152']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15152-output2.nii
+[513/771], loss:0.0006, tumor_dice:0.9183, name:['volume-15153']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15153-output2.nii
+[514/771], loss:0.0007, tumor_dice:0.9219, name:['volume-15154']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15154-output2.nii
+[515/771], loss:0.0007, tumor_dice:0.9161, name:['volume-15155']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15155-output2.nii
+[516/771], loss:0.0005, tumor_dice:0.9254, name:['volume-15156']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15156-output2.nii
+[517/771], loss:0.0007, tumor_dice:0.9210, name:['volume-15157']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15157-output2.nii
+[518/771], loss:0.0007, tumor_dice:0.9160, name:['volume-15158']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15158-output2.nii
+[519/771], loss:0.0006, tumor_dice:0.9244, name:['volume-15159']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15159-output2.nii
+[520/771], loss:0.0007, tumor_dice:0.9143, name:['volume-15160']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15160-output2.nii
+[521/771], loss:0.0007, tumor_dice:0.9122, name:['volume-15161']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15161-output2.nii
+[522/771], loss:0.0006, tumor_dice:0.9186, name:['volume-15162']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15162-output2.nii
+[523/771], loss:0.0007, tumor_dice:0.9208, name:['volume-15163']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15163-output2.nii
+[524/771], loss:0.0008, tumor_dice:0.9082, name:['volume-15164']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15164-output2.nii
+[525/771], loss:0.0005, tumor_dice:0.9278, name:['volume-15165']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15165-output2.nii
+[526/771], loss:0.0007, tumor_dice:0.9204, name:['volume-15166']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15166-output2.nii
+[527/771], loss:0.0007, tumor_dice:0.9139, name:['volume-15167']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15167-output2.nii
+[528/771], loss:0.0005, tumor_dice:0.9267, name:['volume-15168']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15168-output2.nii
+[529/771], loss:0.0007, tumor_dice:0.9233, name:['volume-15169']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15169-output2.nii
+[530/771], loss:0.0007, tumor_dice:0.9170, name:['volume-15170']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15170-output2.nii
+[531/771], loss:0.0005, tumor_dice:0.9247, name:['volume-15171']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15171-output2.nii
+[532/771], loss:0.0007, tumor_dice:0.9225, name:['volume-15172']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15172-output2.nii
+[533/771], loss:0.0007, tumor_dice:0.9212, name:['volume-15173']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15173-output2.nii
+[534/771], loss:0.0005, tumor_dice:0.9323, name:['volume-15174']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15174-output2.nii
+[535/771], loss:0.0007, tumor_dice:0.9214, name:['volume-15175']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15175-output2.nii
+[536/771], loss:0.0007, tumor_dice:0.9196, name:['volume-15176']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15176-output2.nii
+[537/771], loss:0.0005, tumor_dice:0.9307, name:['volume-15177']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15177-output2.nii
+[538/771], loss:0.0007, tumor_dice:0.9092, name:['volume-15178']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15178-output2.nii
+[539/771], loss:0.0008, tumor_dice:0.9004, name:['volume-15179']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15179-output2.nii
+[540/771], loss:0.0006, tumor_dice:0.9101, name:['volume-15180']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15180-output2.nii
+[541/771], loss:0.0008, tumor_dice:0.9056, name:['volume-15181']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15181-output2.nii
+[542/771], loss:0.0008, tumor_dice:0.9010, name:['volume-15182']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15182-output2.nii
+[543/771], loss:0.0006, tumor_dice:0.9068, name:['volume-15183']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15183-output2.nii
+[544/771], loss:0.0008, tumor_dice:0.9088, name:['volume-15184']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15184-output2.nii
+[545/771], loss:0.0008, tumor_dice:0.9012, name:['volume-15185']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15185-output2.nii
+[546/771], loss:0.0006, tumor_dice:0.9181, name:['volume-15186']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15186-output2.nii
+[547/771], loss:0.0011, tumor_dice:0.8790, name:['volume-15187']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15187-output2.nii
+[548/771], loss:0.0010, tumor_dice:0.8845, name:['volume-15188']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15188-output2.nii
+[549/771], loss:0.0008, tumor_dice:0.8543, name:['volume-15189']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15189-output2.nii
+[550/771], loss:0.0011, tumor_dice:0.8673, name:['volume-15190']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15190-output2.nii
+[551/771], loss:0.0010, tumor_dice:0.8815, name:['volume-15191']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15191-output2.nii
+[552/771], loss:0.0008, tumor_dice:0.8508, name:['volume-15192']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15192-output2.nii
+[553/771], loss:0.0011, tumor_dice:0.8709, name:['volume-15193']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15193-output2.nii
+[554/771], loss:0.0010, tumor_dice:0.8853, name:['volume-15194']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15194-output2.nii
+[555/771], loss:0.0008, tumor_dice:0.8500, name:['volume-15195']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15195-output2.nii
+[556/771], loss:0.0021, tumor_dice:0.9004, name:['volume-15196']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15196-output2.nii
+[557/771], loss:0.0018, tumor_dice:0.9154, name:['volume-15197']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15197-output2.nii
+[558/771], loss:0.0013, tumor_dice:0.9057, name:['volume-15198']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15198-output2.nii
+[559/771], loss:0.0019, tumor_dice:0.9139, name:['volume-15199']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15199-output2.nii
+[560/771], loss:0.0017, tumor_dice:0.9203, name:['volume-15200']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15200-output2.nii
+[561/771], loss:0.0013, tumor_dice:0.9051, name:['volume-15201']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15201-output2.nii
+[562/771], loss:0.0018, tumor_dice:0.9165, name:['volume-15202']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15202-output2.nii
+[563/771], loss:0.0017, tumor_dice:0.9210, name:['volume-15203']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15203-output2.nii
+[564/771], loss:0.0012, tumor_dice:0.9076, name:['volume-15204']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15204-output2.nii
+[565/771], loss:0.0028, tumor_dice:0.9321, name:['volume-15205']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15205-output2.nii
+[566/771], loss:0.0027, tumor_dice:0.9328, name:['volume-15206']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15206-output2.nii
+[567/771], loss:0.0019, tumor_dice:0.9219, name:['volume-15207']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15207-output2.nii
+[568/771], loss:0.0024, tumor_dice:0.9428, name:['volume-15208']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15208-output2.nii
+[569/771], loss:0.0024, tumor_dice:0.9434, name:['volume-15209']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15209-output2.nii
+[570/771], loss:0.0017, tumor_dice:0.9307, name:['volume-15210']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15210-output2.nii
+[571/771], loss:0.0023, tumor_dice:0.9461, name:['volume-15211']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15211-output2.nii
+[572/771], loss:0.0023, tumor_dice:0.9473, name:['volume-15212']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15212-output2.nii
+[573/771], loss:0.0016, tumor_dice:0.9366, name:['volume-15213']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15213-output2.nii
+[574/771], loss:0.0036, tumor_dice:0.9337, name:['volume-15214']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15214-output2.nii
+[575/771], loss:0.0032, tumor_dice:0.9406, name:['volume-15215']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15215-output2.nii
+[576/771], loss:0.0023, tumor_dice:0.9239, name:['volume-15216']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15216-output2.nii
+[577/771], loss:0.0032, tumor_dice:0.9447, name:['volume-15217']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15217-output2.nii
+[578/771], loss:0.0032, tumor_dice:0.9463, name:['volume-15218']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15218-output2.nii
+[579/771], loss:0.0020, tumor_dice:0.9325, name:['volume-15219']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15219-output2.nii
+[580/771], loss:0.0032, tumor_dice:0.9457, name:['volume-15220']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15220-output2.nii
+[581/771], loss:0.0031, tumor_dice:0.9469, name:['volume-15221']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15221-output2.nii
+[582/771], loss:0.0020, tumor_dice:0.9346, name:['volume-15222']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15222-output2.nii
+[583/771], loss:0.0037, tumor_dice:0.9343, name:['volume-15223']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15223-output2.nii
+[584/771], loss:0.0035, tumor_dice:0.9388, name:['volume-15224']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15224-output2.nii
+[585/771], loss:0.0023, tumor_dice:0.9272, name:['volume-15225']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15225-output2.nii
+[586/771], loss:0.0035, tumor_dice:0.9444, name:['volume-15226']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15226-output2.nii
+[587/771], loss:0.0035, tumor_dice:0.9453, name:['volume-15227']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15227-output2.nii
+[588/771], loss:0.0021, tumor_dice:0.9334, name:['volume-15228']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15228-output2.nii
+[589/771], loss:0.0034, tumor_dice:0.9468, name:['volume-15229']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15229-output2.nii
+[590/771], loss:0.0032, tumor_dice:0.9493, name:['volume-15230']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15230-output2.nii
+[591/771], loss:0.0020, tumor_dice:0.9367, name:['volume-15231']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15231-output2.nii
+[592/771], loss:0.0037, tumor_dice:0.9327, name:['volume-15232']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15232-output2.nii
+[593/771], loss:0.0033, tumor_dice:0.9400, name:['volume-15233']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15233-output2.nii
+[594/771], loss:0.0023, tumor_dice:0.9229, name:['volume-15234']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15234-output2.nii
+[595/771], loss:0.0035, tumor_dice:0.9431, name:['volume-15235']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15235-output2.nii
+[596/771], loss:0.0033, tumor_dice:0.9456, name:['volume-15236']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15236-output2.nii
+[597/771], loss:0.0021, tumor_dice:0.9300, name:['volume-15237']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15237-output2.nii
+[598/771], loss:0.0032, tumor_dice:0.9476, name:['volume-15238']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15238-output2.nii
+[599/771], loss:0.0031, tumor_dice:0.9499, name:['volume-15239']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15239-output2.nii
+[600/771], loss:0.0019, tumor_dice:0.9361, name:['volume-15240']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15240-output2.nii
+[601/771], loss:0.0031, tumor_dice:0.9286, name:['volume-15241']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15241-output2.nii
+[602/771], loss:0.0029, tumor_dice:0.9333, name:['volume-15242']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15242-output2.nii
+[603/771], loss:0.0020, tumor_dice:0.9134, name:['volume-15243']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15243-output2.nii
+[604/771], loss:0.0030, tumor_dice:0.9402, name:['volume-15244']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15244-output2.nii
+[605/771], loss:0.0029, tumor_dice:0.9419, name:['volume-15245']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15245-output2.nii
+[606/771], loss:0.0018, tumor_dice:0.9207, name:['volume-15246']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15246-output2.nii
+[607/771], loss:0.0028, tumor_dice:0.9436, name:['volume-15247']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15247-output2.nii
+[608/771], loss:0.0027, tumor_dice:0.9455, name:['volume-15248']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15248-output2.nii
+[609/771], loss:0.0017, tumor_dice:0.9281, name:['volume-15249']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15249-output2.nii
+[610/771], loss:0.0025, tumor_dice:0.9420, name:['volume-15250']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15250-output2.nii
+[611/771], loss:0.0021, tumor_dice:0.9593, name:['volume-15251']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15251-output2.nii
+[612/771], loss:0.0011, tumor_dice:0.9527, name:['volume-15252']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15252-output2.nii
+[613/771], loss:0.0025, tumor_dice:0.9416, name:['volume-15253']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15253-output2.nii
+[614/771], loss:0.0020, tumor_dice:0.9607, name:['volume-15254']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15254-output2.nii
+[615/771], loss:0.0011, tumor_dice:0.9548, name:['volume-15255']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15255-output2.nii
+[616/771], loss:0.0016, tumor_dice:0.9557, name:['volume-15256']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15256-output2.nii
+[617/771], loss:0.0015, tumor_dice:0.9573, name:['volume-15257']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15257-output2.nii
+[618/771], loss:0.0006, tumor_dice:0.9149, name:['volume-15258']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15258-output2.nii
+[619/771], loss:0.0028, tumor_dice:0.9519, name:['volume-15259']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15259-output2.nii
+[620/771], loss:0.0027, tumor_dice:0.9600, name:['volume-15260']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15260-output2.nii
+[621/771], loss:0.0019, tumor_dice:0.9511, name:['volume-15261']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15261-output2.nii
+[622/771], loss:0.0027, tumor_dice:0.9526, name:['volume-15262']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15262-output2.nii
+[623/771], loss:0.0026, tumor_dice:0.9614, name:['volume-15263']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15263-output2.nii
+[624/771], loss:0.0018, tumor_dice:0.9540, name:['volume-15264']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15264-output2.nii
+[625/771], loss:0.0018, tumor_dice:0.9555, name:['volume-15265']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15265-output2.nii
+[626/771], loss:0.0018, tumor_dice:0.9586, name:['volume-15266']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15266-output2.nii
+[627/771], loss:0.0012, tumor_dice:0.9012, name:['volume-15267']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15267-output2.nii
+[628/771], loss:0.0037, tumor_dice:0.9555, name:['volume-15268']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15268-output2.nii
+[629/771], loss:0.0033, tumor_dice:0.9633, name:['volume-15269']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15269-output2.nii
+[630/771], loss:0.0023, tumor_dice:0.9594, name:['volume-15270']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15270-output2.nii
+[631/771], loss:0.0035, tumor_dice:0.9574, name:['volume-15271']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15271-output2.nii
+[632/771], loss:0.0032, tumor_dice:0.9650, name:['volume-15272']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15272-output2.nii
+[633/771], loss:0.0023, tumor_dice:0.9605, name:['volume-15273']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15273-output2.nii
+[634/771], loss:0.0025, tumor_dice:0.9590, name:['volume-15274']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15274-output2.nii
+[635/771], loss:0.0023, tumor_dice:0.9618, name:['volume-15275']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15275-output2.nii
+[636/771], loss:0.0013, tumor_dice:0.9505, name:['volume-15276']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15276-output2.nii
+[637/771], loss:0.0044, tumor_dice:0.9618, name:['volume-15277']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15277-output2.nii
+[638/771], loss:0.0037, tumor_dice:0.9680, name:['volume-15278']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15278-output2.nii
+[639/771], loss:0.0026, tumor_dice:0.9678, name:['volume-15279']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15279-output2.nii
+[640/771], loss:0.0042, tumor_dice:0.9630, name:['volume-15280']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15280-output2.nii
+[641/771], loss:0.0036, tumor_dice:0.9690, name:['volume-15281']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15281-output2.nii
+[642/771], loss:0.0026, tumor_dice:0.9673, name:['volume-15282']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15282-output2.nii
+[643/771], loss:0.0030, tumor_dice:0.9656, name:['volume-15283']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15283-output2.nii
+[644/771], loss:0.0027, tumor_dice:0.9670, name:['volume-15284']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15284-output2.nii
+[645/771], loss:0.0017, tumor_dice:0.9622, name:['volume-15285']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15285-output2.nii
+[646/771], loss:0.0048, tumor_dice:0.9635, name:['volume-15286']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15286-output2.nii
+[647/771], loss:0.0040, tumor_dice:0.9686, name:['volume-15287']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15287-output2.nii
+[648/771], loss:0.0030, tumor_dice:0.9683, name:['volume-15288']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15288-output2.nii
+[649/771], loss:0.0049, tumor_dice:0.9630, name:['volume-15289']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15289-output2.nii
+[650/771], loss:0.0039, tumor_dice:0.9694, name:['volume-15290']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15290-output2.nii
+[651/771], loss:0.0030, tumor_dice:0.9682, name:['volume-15291']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15291-output2.nii
+[652/771], loss:0.0036, tumor_dice:0.9650, name:['volume-15292']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15292-output2.nii
+[653/771], loss:0.0029, tumor_dice:0.9687, name:['volume-15293']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15293-output2.nii
+[654/771], loss:0.0020, tumor_dice:0.9662, name:['volume-15294']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15294-output2.nii
+[655/771], loss:0.0053, tumor_dice:0.9614, name:['volume-15295']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15295-output2.nii
+[656/771], loss:0.0045, tumor_dice:0.9642, name:['volume-15296']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15296-output2.nii
+[657/771], loss:0.0034, tumor_dice:0.9632, name:['volume-15297']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15297-output2.nii
+[658/771], loss:0.0053, tumor_dice:0.9612, name:['volume-15298']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15298-output2.nii
+[659/771], loss:0.0045, tumor_dice:0.9643, name:['volume-15299']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15299-output2.nii
+[660/771], loss:0.0035, tumor_dice:0.9627, name:['volume-15300']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15300-output2.nii
+[661/771], loss:0.0043, tumor_dice:0.9613, name:['volume-15301']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15301-output2.nii
+[662/771], loss:0.0035, tumor_dice:0.9637, name:['volume-15302']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15302-output2.nii
+[663/771], loss:0.0025, tumor_dice:0.9615, name:['volume-15303']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15303-output2.nii
+[664/771], loss:0.0059, tumor_dice:0.9598, name:['volume-15304']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15304-output2.nii
+[665/771], loss:0.0048, tumor_dice:0.9636, name:['volume-15305']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15305-output2.nii
+[666/771], loss:0.0037, tumor_dice:0.9619, name:['volume-15306']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15306-output2.nii
+[667/771], loss:0.0058, tumor_dice:0.9606, name:['volume-15307']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15307-output2.nii
+[668/771], loss:0.0052, tumor_dice:0.9607, name:['volume-15308']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15308-output2.nii
+[669/771], loss:0.0042, tumor_dice:0.9560, name:['volume-15309']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15309-output2.nii
+[670/771], loss:0.0050, tumor_dice:0.9619, name:['volume-15310']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15310-output2.nii
+[671/771], loss:0.0046, tumor_dice:0.9594, name:['volume-15311']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15311-output2.nii
+[672/771], loss:0.0035, tumor_dice:0.9553, name:['volume-15312']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15312-output2.nii
+[673/771], loss:0.0054, tumor_dice:0.9671, name:['volume-15313']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15313-output2.nii
+[674/771], loss:0.0044, tumor_dice:0.9704, name:['volume-15314']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15314-output2.nii
+[675/771], loss:0.0034, tumor_dice:0.9688, name:['volume-15315']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15315-output2.nii
+[676/771], loss:0.0053, tumor_dice:0.9676, name:['volume-15316']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15316-output2.nii
+[677/771], loss:0.0043, tumor_dice:0.9709, name:['volume-15317']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15317-output2.nii
+[678/771], loss:0.0034, tumor_dice:0.9679, name:['volume-15318']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15318-output2.nii
+[679/771], loss:0.0047, tumor_dice:0.9689, name:['volume-15319']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15319-output2.nii
+[680/771], loss:0.0039, tumor_dice:0.9716, name:['volume-15320']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15320-output2.nii
+[681/771], loss:0.0030, tumor_dice:0.9692, name:['volume-15321']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15321-output2.nii
+[682/771], loss:0.0055, tumor_dice:0.9670, name:['volume-15322']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15322-output2.nii
+[683/771], loss:0.0044, tumor_dice:0.9713, name:['volume-15323']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15323-output2.nii
+[684/771], loss:0.0034, tumor_dice:0.9703, name:['volume-15324']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15324-output2.nii
+[685/771], loss:0.0053, tumor_dice:0.9681, name:['volume-15325']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15325-output2.nii
+[686/771], loss:0.0043, tumor_dice:0.9722, name:['volume-15326']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15326-output2.nii
+[687/771], loss:0.0035, tumor_dice:0.9693, name:['volume-15327']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15327-output2.nii
+[688/771], loss:0.0047, tumor_dice:0.9702, name:['volume-15328']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15328-output2.nii
+[689/771], loss:0.0039, tumor_dice:0.9735, name:['volume-15329']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15329-output2.nii
+[690/771], loss:0.0032, tumor_dice:0.9705, name:['volume-15330']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15330-output2.nii
+[691/771], loss:0.0054, tumor_dice:0.9660, name:['volume-15331']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15331-output2.nii
+[692/771], loss:0.0049, tumor_dice:0.9683, name:['volume-15332']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15332-output2.nii
+[693/771], loss:0.0039, tumor_dice:0.9669, name:['volume-15333']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15333-output2.nii
+[694/771], loss:0.0055, tumor_dice:0.9659, name:['volume-15334']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15334-output2.nii
+[695/771], loss:0.0049, tumor_dice:0.9681, name:['volume-15335']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15335-output2.nii
+[696/771], loss:0.0040, tumor_dice:0.9655, name:['volume-15336']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15336-output2.nii
+[697/771], loss:0.0051, tumor_dice:0.9675, name:['volume-15337']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15337-output2.nii
+[698/771], loss:0.0047, tumor_dice:0.9689, name:['volume-15338']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15338-output2.nii
+[699/771], loss:0.0037, tumor_dice:0.9674, name:['volume-15339']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15339-output2.nii
+[700/771], loss:0.0048, tumor_dice:0.9670, name:['volume-15340']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15340-output2.nii
+[701/771], loss:0.0042, tumor_dice:0.9705, name:['volume-15341']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15341-output2.nii
+[702/771], loss:0.0033, tumor_dice:0.9707, name:['volume-15342']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15342-output2.nii
+[703/771], loss:0.0045, tumor_dice:0.9691, name:['volume-15343']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15343-output2.nii
+[704/771], loss:0.0044, tumor_dice:0.9691, name:['volume-15344']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15344-output2.nii
+[705/771], loss:0.0033, tumor_dice:0.9705, name:['volume-15345']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15345-output2.nii
+[706/771], loss:0.0046, tumor_dice:0.9678, name:['volume-15346']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15346-output2.nii
+[707/771], loss:0.0048, tumor_dice:0.9666, name:['volume-15347']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15347-output2.nii
+[708/771], loss:0.0034, tumor_dice:0.9693, name:['volume-15348']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15348-output2.nii
+[709/771], loss:0.0034, tumor_dice:0.9723, name:['volume-15349']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15349-output2.nii
+[710/771], loss:0.0032, tumor_dice:0.9744, name:['volume-15350']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15350-output2.nii
+[711/771], loss:0.0026, tumor_dice:0.9742, name:['volume-15351']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15351-output2.nii
+[712/771], loss:0.0034, tumor_dice:0.9725, name:['volume-15352']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15352-output2.nii
+[713/771], loss:0.0032, tumor_dice:0.9745, name:['volume-15353']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15353-output2.nii
+[714/771], loss:0.0027, tumor_dice:0.9732, name:['volume-15354']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15354-output2.nii
+[715/771], loss:0.0033, tumor_dice:0.9736, name:['volume-15355']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15355-output2.nii
+[716/771], loss:0.0031, tumor_dice:0.9753, name:['volume-15356']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15356-output2.nii
+[717/771], loss:0.0025, tumor_dice:0.9750, name:['volume-15357']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15357-output2.nii
+[718/771], loss:0.0031, tumor_dice:0.9665, name:['volume-15358']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15358-output2.nii
+[719/771], loss:0.0028, tumor_dice:0.9699, name:['volume-15359']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15359-output2.nii
+[720/771], loss:0.0022, tumor_dice:0.9715, name:['volume-15360']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15360-output2.nii
+[721/771], loss:0.0028, tumor_dice:0.9697, name:['volume-15361']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15361-output2.nii
+[722/771], loss:0.0025, tumor_dice:0.9724, name:['volume-15362']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15362-output2.nii
+[723/771], loss:0.0020, tumor_dice:0.9733, name:['volume-15363']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15363-output2.nii
+[724/771], loss:0.0028, tumor_dice:0.9694, name:['volume-15364']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15364-output2.nii
+[725/771], loss:0.0026, tumor_dice:0.9718, name:['volume-15365']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15365-output2.nii
+[726/771], loss:0.0021, tumor_dice:0.9719, name:['volume-15366']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15366-output2.nii
+[727/771], loss:0.0011, tumor_dice:0.8350, name:['volume-15367']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15367-output2.nii
+[728/771], loss:0.0009, tumor_dice:0.8728, name:['volume-15368']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15368-output2.nii
+[729/771], loss:0.0009, tumor_dice:0.8771, name:['volume-15369']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15369-output2.nii
+[730/771], loss:0.0008, tumor_dice:0.8750, name:['volume-15370']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15370-output2.nii
+[731/771], loss:0.0013, tumor_dice:0.9329, name:['volume-15371']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15371-output2.nii
+[732/771], loss:0.0012, tumor_dice:0.9396, name:['volume-15372']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15372-output2.nii
+[733/771], loss:0.0011, tumor_dice:0.9418, name:['volume-15373']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15373-output2.nii
+[734/771], loss:0.0011, tumor_dice:0.9422, name:['volume-15374']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15374-output2.nii
+[735/771], loss:0.0019, tumor_dice:0.9516, name:['volume-15375']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15375-output2.nii
+[736/771], loss:0.0017, tumor_dice:0.9564, name:['volume-15376']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15376-output2.nii
+[737/771], loss:0.0017, tumor_dice:0.9572, name:['volume-15377']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15377-output2.nii
+[738/771], loss:0.0017, tumor_dice:0.9567, name:['volume-15378']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15378-output2.nii
+[739/771], loss:0.0029, tumor_dice:0.9527, name:['volume-15379']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15379-output2.nii
+[740/771], loss:0.0024, tumor_dice:0.9619, name:['volume-15380']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15380-output2.nii
+[741/771], loss:0.0024, tumor_dice:0.9611, name:['volume-15381']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15381-output2.nii
+[742/771], loss:0.0022, tumor_dice:0.9646, name:['volume-15382']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15382-output2.nii
+[743/771], loss:0.0028, tumor_dice:0.9702, name:['volume-15383']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15383-output2.nii
+[744/771], loss:0.0027, tumor_dice:0.9714, name:['volume-15384']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15384-output2.nii
+[745/771], loss:0.0026, tumor_dice:0.9721, name:['volume-15385']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15385-output2.nii
+[746/771], loss:0.0026, tumor_dice:0.9715, name:['volume-15386']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15386-output2.nii
+[747/771], loss:0.0035, tumor_dice:0.9709, name:['volume-15387']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15387-output2.nii
+[748/771], loss:0.0033, tumor_dice:0.9731, name:['volume-15388']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15388-output2.nii
+[749/771], loss:0.0032, tumor_dice:0.9736, name:['volume-15389']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15389-output2.nii
+[750/771], loss:0.0032, tumor_dice:0.9740, name:['volume-15390']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15390-output2.nii
+[751/771], loss:0.0035, tumor_dice:0.9763, name:['volume-15391']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15391-output2.nii
+[752/771], loss:0.0034, tumor_dice:0.9774, name:['volume-15392']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15392-output2.nii
+[753/771], loss:0.0036, tumor_dice:0.9760, name:['volume-15393']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15393-output2.nii
+[754/771], loss:0.0036, tumor_dice:0.9758, name:['volume-15394']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15394-output2.nii
+[755/771], loss:0.0035, tumor_dice:0.9790, name:['volume-15395']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15395-output2.nii
+[756/771], loss:0.0034, tumor_dice:0.9792, name:['volume-15396']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15396-output2.nii
+[757/771], loss:0.0033, tumor_dice:0.9800, name:['volume-15397']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15397-output2.nii
+[758/771], loss:0.0033, tumor_dice:0.9798, name:['volume-15398']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15398-output2.nii
+[759/771], loss:0.0036, tumor_dice:0.9785, name:['volume-15399']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15399-output2.nii
+[760/771], loss:0.0035, tumor_dice:0.9790, name:['volume-15400']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15400-output2.nii
+[761/771], loss:0.0034, tumor_dice:0.9794, name:['volume-15401']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15401-output2.nii
+[762/771], loss:0.0034, tumor_dice:0.9795, name:['volume-15402']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15402-output2.nii
+[763/771], loss:0.0035, tumor_dice:0.9754, name:['volume-15403']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15403-output2.nii
+[764/771], loss:0.0035, tumor_dice:0.9755, name:['volume-15404']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15404-output2.nii
+[765/771], loss:0.0034, tumor_dice:0.9764, name:['volume-15405']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15405-output2.nii
+[766/771], loss:0.0034, tumor_dice:0.9767, name:['volume-15406']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15406-output2.nii
+[767/771], loss:0.0031, tumor_dice:0.9729, name:['volume-15407']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15407-output2.nii
+[768/771], loss:0.0030, tumor_dice:0.9735, name:['volume-15408']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15408-output2.nii
+[769/771], loss:0.0028, tumor_dice:0.9758, name:['volume-15409']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15409-output2.nii
+[770/771], loss:0.0028, tumor_dice:0.9758, name:['volume-15410']
+/home/lihuiyu/Data/LiTS/segResults/20191002-100958/valid-volume-15410-output2.nii
+valid_loss:0.0015, valid_tumor:0.8222, Time:9.579min 
+Time 9.579 min
+2019/10/02-10:19:33
